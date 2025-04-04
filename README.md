@@ -1,2 +1,5 @@
-# senac_clt
-Repositório criado para os projetos criados ao longo das aulas de Coding, Linguagens e Técnicas, no 2º período da Faculdade Senac Pernambuco.
+# Currículo Profissional de TI
+
+Projeto desenvolvido para a disciplina **Coding, Linguagens e Técnicas**, ministrada pelo professor **Danilo Farias** na **Faculdade Senac Pernambuco**.
+
+Este repositório contém um currículo profissional voltado para a área de **Tecnologia da Informação (TI)**.
