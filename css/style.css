@@ -1,0 +1,63 @@
+:root {
+    --corFundo: #F2EFE7;
+    --corAzulEsc: #006A71;
+    --corPreto: #333;
+    --corAzulMed: #48A6A7;
+    --corAzulCla: #9ACBD0;
+    --fonte: 'Nunito', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: var(--corFundo);
+background-image: linear-gradient(135deg, var(--corAzulMed) 0%, var(--corAzulCla) 100%);
+    font-family: var(--fonte);
+    color: var(--corPreto);
+    margin: 1%;
+}
+
+a {
+    text-decoration: none;
+    color: var(--corAzulEsc);
+}
+
+.geral {
+    background-color: var(--corFundo);
+    font-family: 'Nunito', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Helvetica, sans-serif;
+    border: 0;
+}
+
+h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin: 0.5rem 0;
+    color: var(--corAzulEsc);
+}
+
+.profile {
+    border-radius: 50%;
+    width: 12.5rem;
+    margin: 0 auto;
+    display: block;
+}
+
+h2 {
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 0.5rem 0;
+    color: var(--corAzulEsc);
+}
+
+h3 {
+    font-size: 1.2rem;
+    text-align: center;
+    margin: 0.5rem 0;
+    color: var(--corAzulEsc);
+}
+
+h4 {
+    font-size: 1rem;
+    text-align: center;
+    margin: 0.5rem 0;
+    color: var(--corAzulEsc);
+}
+

@@ -1,0 +1,40 @@
+:root {
+    --corFundo: #F2EFE7;
+    --corAzulEsc: #006A71;
+    --corPreto: #333;
+    --corAzulMed: #48A6A7;
+    --corAzulCla: #9ACBD0;
+    --fonte: 'Nunito', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Helvetica, sans-serif;
+}
+
+p.justificado {
+    text-align: justify;
+}
+
+body {
+    padding-top: 1.5rem;
+    background-image: linear-gradient(to bottom, #9acbd0, #9bd6dc, #9ce2e8, #9cedf3, #9cf9ff);
+    font-family: 'Nunito';
+}
+
+div.tab-content {
+    background-color: #fff;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+footer {
+    position: fixed;
+    padding: 0.5rem;
+    bottom: 0;
+    width: 100%;
+    background-color: var(--corAzulEsc);
+    text-align: center;
+    color: var(--corAzulCla);
+}
+
+h2 {
+    border-left: 3px solid var(--corAzulEsc);
+    padding-left:0.5rem;
+}
